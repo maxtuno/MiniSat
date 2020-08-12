@@ -1,0 +1,1 @@
+MiniSat: A minimalistic and high performance SAT solver
